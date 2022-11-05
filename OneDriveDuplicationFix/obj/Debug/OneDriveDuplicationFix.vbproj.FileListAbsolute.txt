@@ -1,0 +1,10 @@
+D:\OneDrive\Projects\ProjectsPrivate\OneDriveDuplicationFix\OneDriveDuplicationFix\bin\Debug\OneDriveDuplicationFix.exe.config
+D:\OneDrive\Projects\ProjectsPrivate\OneDriveDuplicationFix\OneDriveDuplicationFix\bin\Debug\OneDriveDuplicationFix.exe
+D:\OneDrive\Projects\ProjectsPrivate\OneDriveDuplicationFix\OneDriveDuplicationFix\bin\Debug\OneDriveDuplicationFix.pdb
+D:\OneDrive\Projects\ProjectsPrivate\OneDriveDuplicationFix\OneDriveDuplicationFix\bin\Debug\OneDriveDuplicationFix.xml
+D:\OneDrive\Projects\ProjectsPrivate\OneDriveDuplicationFix\OneDriveDuplicationFix\obj\Debug\WindowsApplication1.Form1.resources
+D:\OneDrive\Projects\ProjectsPrivate\OneDriveDuplicationFix\OneDriveDuplicationFix\obj\Debug\WindowsApplication1.Resources.resources
+D:\OneDrive\Projects\ProjectsPrivate\OneDriveDuplicationFix\OneDriveDuplicationFix\obj\Debug\OneDriveDuplicationFix.vbproj.GenerateResource.Cache
+D:\OneDrive\Projects\ProjectsPrivate\OneDriveDuplicationFix\OneDriveDuplicationFix\obj\Debug\OneDriveDuplicationFix.exe
+D:\OneDrive\Projects\ProjectsPrivate\OneDriveDuplicationFix\OneDriveDuplicationFix\obj\Debug\OneDriveDuplicationFix.xml
+D:\OneDrive\Projects\ProjectsPrivate\OneDriveDuplicationFix\OneDriveDuplicationFix\obj\Debug\OneDriveDuplicationFix.pdb
